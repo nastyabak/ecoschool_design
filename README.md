@@ -1,1 +1,1 @@
-# ecoschool_design
+Дизайн онлайн школы "Ecoschool"
